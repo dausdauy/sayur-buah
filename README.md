@@ -6,7 +6,7 @@ A small attempt to make an Food delivery app user interface in Flutter for Andro
 
 ## Author(s)
 
-**SelemeneCcommand**
+**Selemene Command**
 
 ## Food Ordering & Delivery App UI in Flutter
 
