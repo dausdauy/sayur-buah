@@ -14,7 +14,6 @@ class CarouselFoodWidget extends StatelessWidget {
       child: CarouselSlider(
         options: CarouselOptions(
           autoPlay: true,
-          height: MediaQuery.of(context).size.height * 0.3,
         ),
         items: images.map((e) {
           return Card(
