@@ -1,3 +1,4 @@
-build
-.dart_tool
-.idea
+# Big Size
+build/
+.dart_tool/
+.idea/
